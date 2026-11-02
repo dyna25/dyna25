@@ -39,7 +39,6 @@ I'm building my foundations in computer science, exploring different areas of so
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -60,6 +59,7 @@ I'm still exploring different areas of computer science, and I'm excited to see 
 - 🧠 Exploring algorithms, data structures, and software development.
 - 🚀 Turning what I learn into practical projects.
 
+<!-- I'm still not that courageous to start putting my stuff here 
 ### 🚀 What you'll find here
 
 This is where I document my journey in computer science.
@@ -70,6 +70,7 @@ This is where I document my journey in computer science.
 
 I'm still at the beginning of my journey, and that's exactly why I'm building in public: every repository is an opportunity to learn something new.
 
+-->
 ### 🌍 Beyond the code
 
 When I'm not studying, you'll probably find me working on ideas, exploring something new, or taking an unexpected side quest.
