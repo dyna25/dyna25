@@ -80,12 +80,6 @@ When I'm not studying, you'll probably find me working on ideas, exploring somet
 - 🌱 Always curious about subjects beyond my immediate field.
 - ✨ Firm believer that some of the best ideas start with a little curiosity.
 
-### 🤝 Let's connect
-
-I'm always happy to learn from other developers, exchange ideas, and discover interesting projects.
-
-If you're building something interesting or simply want to connect, feel free to explore my repositories and reach out!
-
 <p align="center">
-  <i>One commit at a time. One idea at a time. Always becoming.</i> ✨
+  <i>you'd never know what you'll encounter, and that's an adventure worth living. 🫧</i> 
 </p>
